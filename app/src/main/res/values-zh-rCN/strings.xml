@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC卡面修改器</string>
+    <string name="show_all_images">展示所有图片</string>
+    <string name="root_unavailable">Root 不可用！</string>
+    <string name="list_file_failed">卡面文件夹为空或获取文件列表失败</string>
+    <string name="copied_to_clipboard">文件名已复制至剪切板</string>
+    <string name="replace_ask">确定要替换卡面吗？</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="replace_failed">卡面替换失败</string>
+    <string name="read_failed">新卡面读取失败</string>
+    <string name="size_mismatch">卡面尺寸不一致！</string>
+    <string name="replace">替换</string>
+    <string name="restore">恢复</string>
+    <string name="export">导出</string>
+    <string name="acknowledge">我已知晓并同意</string>
+    <string name="exit">退出应用</string>
+    <string name="warning_info">本应用为作者首次尝试学习安卓开发而写，可能存在各种bug。\n\n由于涉及Root权限，请在充分进行代码审查后，再决定是否编译、安装和使用。\n\n仅供学习交流使用，请于24小时内删除！</string>
+    <string name="export_success">导出成功</string>
+    <string name="export_failed">导出失败</string>
+</resources>

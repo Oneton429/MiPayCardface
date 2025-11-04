@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Card Face Changer</string>
+    <string name="show_all_images">Show all images</string>
+    <string name="root_unavailable">Root is unavailable!</string>
+    <string name="list_file_failed">Cardface folder empty or list files failed.</string>
+    <string name="copied_to_clipboard">Filename has been copied to clipboard.</string>
+    <string name="replace_ask">Replace card face?</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="replace_failed">Replace failed</string>
+    <string name="read_failed">Failed to read new card face</string>
+    <string name="size_mismatch">Image size doesn\'t match the original one!</string>
+    <string name="replace">Replace</string>
+    <string name="restore">Restore</string>
+    <string name="export">Export</string>
+    <string name="acknowledge">Acknowledge &amp; Agree</string>
+    <string name="exit">Exit App</string>
+    <string name="warning_info">This app was developed by the author as a first attempt to learn Android development and may contain various bugs.\n\nAs it involves Root privileges, please thoroughly review the source code before deciding whether to build, install, or use it.\n\nFor study purposes only, please delete within 24 hours!</string>
+    <string name="export_success">Successfully exported</string>
+    <string name="export_failed">Failed to export</string>
+</resources>
